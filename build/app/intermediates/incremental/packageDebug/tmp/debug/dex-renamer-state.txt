@@ -1,0 +1,4 @@
+#Wed Sep 22 21:07:31 IST 2021
+base.0=C\:\\Users\\bhard\\Downloads\\Todo-App-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
